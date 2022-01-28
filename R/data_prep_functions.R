@@ -1,5 +1,3 @@
-
-
 #' Creates raster stack of coastline, overwater distance, and bathymetry
 #'
 #' @param obs_center Coordinates (decimal degrees) of central place, from which
